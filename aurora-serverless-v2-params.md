@@ -5,7 +5,7 @@
 | 項目 | パラメータ名 | 設定値 | 備考 |
 |------|------------|--------|------|
 | エンジンタイプ | Engine type | Amazon Aurora PostgreSQL-Compatible Edition | - |
-| エンジンバージョン | Engine version | PostgreSQL 15.x (最新推奨) | 利用可能な最新バージョンを選択 |
+| エンジンバージョン | Engine version | PostgreSQL 17.4 (最新推奨) | (2025/11/3時点)、利用可能な最新バージョンを選択 |
 | テンプレート | Template | Production / Dev/Test | 本番環境はProduction推奨 |
 
 ## DBクラスター設定
